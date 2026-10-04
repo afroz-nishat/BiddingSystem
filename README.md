@@ -64,3 +64,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+The BidMaster Platform is a web-based platform designed to facilitate real-time auctions in a secure and user-friendly environment. The system allows admins to create and manage auctions, while registered users can participate by placing competitive bids on listed items. This is built using the Laravel framework, the platform ensures reliable authentication, access control and smooth interaction between bidders and auction data. Each auction across five categories namely gadgets, artworks, antiques and collectibles, memorabilia and automobiles remain active for a defined duration, during which users can submit bids. The current highest bid is updated dynamically to maintain a transparent and engaging bidding process. Once an auction closes, the winning bidder is automatically notified via email.
